@@ -1,0 +1,6 @@
+net\leafbukkit\chatRecorder\ChatRecorder$ChatRecorderClickCommand.class
+net\leafbukkit\chatRecorder\ChatRecorder$ChatRecorderCommand.class
+velocity-plugin.json
+net\leafbukkit\chatRecorder\ChatRecorder$ChatRecorderTeleportCommand.class
+net\leafbukkit\chatRecorder\ChatRecorder.class
+net\leafbukkit\chatRecorder\ChatRecorder$ChatRecord.class
